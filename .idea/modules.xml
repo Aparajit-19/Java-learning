@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10/10.iml" filepath="$PROJECT_DIR$/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11/11.iml" filepath="$PROJECT_DIR$/11/11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12/12.iml" filepath="$PROJECT_DIR$/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13/13.iml" filepath="$PROJECT_DIR$/13/13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14/14.iml" filepath="$PROJECT_DIR$/14/14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15/15.iml" filepath="$PROJECT_DIR$/15/15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16/16.iml" filepath="$PROJECT_DIR$/16/16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17/17.iml" filepath="$PROJECT_DIR$/17/17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18/18.iml" filepath="$PROJECT_DIR$/18/18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19/19.iml" filepath="$PROJECT_DIR$/19/19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2/2.iml" filepath="$PROJECT_DIR$/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20/20.iml" filepath="$PROJECT_DIR$/20/20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21/21.iml" filepath="$PROJECT_DIR$/21/21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22/22.iml" filepath="$PROJECT_DIR$/22/22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23/23.iml" filepath="$PROJECT_DIR$/23/23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24/24.iml" filepath="$PROJECT_DIR$/24/24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25/25.iml" filepath="$PROJECT_DIR$/25/25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26/26.iml" filepath="$PROJECT_DIR$/26/26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27/27.iml" filepath="$PROJECT_DIR$/27/27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28/28.iml" filepath="$PROJECT_DIR$/28/28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29/29.iml" filepath="$PROJECT_DIR$/29/29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/3.iml" filepath="$PROJECT_DIR$/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30/30.iml" filepath="$PROJECT_DIR$/30/30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 (Part 2)/30 (Part 2).iml" filepath="$PROJECT_DIR$/30 (Part 2)/30 (Part 2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/31/31.iml" filepath="$PROJECT_DIR$/31/31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32/32.iml" filepath="$PROJECT_DIR$/32/32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33/33.iml" filepath="$PROJECT_DIR$/33/33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34/34.iml" filepath="$PROJECT_DIR$/34/34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35/35.iml" filepath="$PROJECT_DIR$/35/35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36/36.iml" filepath="$PROJECT_DIR$/36/36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37/37.iml" filepath="$PROJECT_DIR$/37/37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38/38.iml" filepath="$PROJECT_DIR$/38/38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39/39.iml" filepath="$PROJECT_DIR$/39/39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/4.iml" filepath="$PROJECT_DIR$/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40/40.iml" filepath="$PROJECT_DIR$/40/40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41/41.iml" filepath="$PROJECT_DIR$/41/41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42/42.iml" filepath="$PROJECT_DIR$/42/42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43/43.iml" filepath="$PROJECT_DIR$/43/43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44/44.iml" filepath="$PROJECT_DIR$/44/44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5/5.iml" filepath="$PROJECT_DIR$/5/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6/6.iml" filepath="$PROJECT_DIR$/6/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7/7.iml" filepath="$PROJECT_DIR$/7/7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8/8.iml" filepath="$PROJECT_DIR$/8/8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9/9.iml" filepath="$PROJECT_DIR$/9/9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array resize/Array resize.iml" filepath="$PROJECT_DIR$/Array resize/Array resize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array1/Array1.iml" filepath="$PROJECT_DIR$/Array1/Array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arraylist challenge/Arraylist challenge.iml" filepath="$PROJECT_DIR$/Arraylist challenge/Arraylist challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExercises/CodingExercises.iml" filepath="$PROJECT_DIR$/CodingExercises/CodingExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionChallengeExercise/CompositionChallengeExercise.iml" filepath="$PROJECT_DIR$/CompositionChallengeExercise/CompositionChallengeExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionPart2/CompositionPart2.iml" filepath="$PROJECT_DIR$/CompositionPart2/CompositionPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorsPart2/ConstructorsPart2.iml" filepath="$PROJECT_DIR$/ConstructorsPart2/ConstructorsPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorsPart3/ConstructorsPart3.iml" filepath="$PROJECT_DIR$/ConstructorsPart3/ConstructorsPart3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge Exercise/EncapsulationChallenge Exercise.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge Exercise/EncapsulationChallenge Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationPart2/EncapsulationPart2.iml" filepath="$PROJECT_DIR$/EncapsulationPart2/EncapsulationPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeblock/IfKeywordAndCodeblock.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeblock/IfKeywordAndCodeblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritancePart2/InheritancePart2.iml" filepath="$PROJECT_DIR$/InheritancePart2/InheritancePart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java masterclass 3.iml" filepath="$PROJECT_DIR$/.idea/Java masterclass 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpression/KeywordsAndExpression.iml" filepath="$PROJECT_DIR$/KeywordsAndExpression/KeywordsAndExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List and arraylist/List and arraylist.iml" filepath="$PROJECT_DIR$/List and arraylist/List and arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List and arraylist 2/List and arraylist 2.iml" filepath="$PROJECT_DIR$/List and arraylist 2/List and arraylist 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logicalandoperator/Logicalandoperator.iml" filepath="$PROJECT_DIR$/Logicalandoperator/Logicalandoperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" filepath="$PROJECT_DIR$/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods2/Methods2.iml" filepath="$PROJECT_DIR$/Methods2/Methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsFinal/MethodsFinal.iml" filepath="$PROJECT_DIR$/MethodsFinal/MethodsFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsFinal1/MethodsFinal1.iml" filepath="$PROJECT_DIR$/MethodsFinal1/MethodsFinal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsPractice/MethodsPractice.iml" filepath="$PROJECT_DIR$/MethodsPractice/MethodsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsPractice2/MethodsPractice2.iml" filepath="$PROJECT_DIR$/MethodsPractice2/MethodsPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsPractice3/MethodsPractice3.iml" filepath="$PROJECT_DIR$/MethodsPractice3/MethodsPractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methodsfinal2/Methodsfinal2.iml" filepath="$PROJECT_DIR$/Methodsfinal2/Methodsfinal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" filepath="$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxInputChallengePart2/MinAndMaxInputChallengePart2.iml" filepath="$PROJECT_DIR$/MinAndMaxInputChallengePart2/MinAndMaxInputChallengePart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum Element Challenge/Minimum Element Challenge.iml" filepath="$PROJECT_DIR$/Minimum Element Challenge/Minimum Element Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming Master Challenge/Object Oriented Programming Master Challenge.iml" filepath="$PROJECT_DIR$/Object Oriented Programming Master Challenge/Object Oriented Programming Master Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorError/OperatorError.iml" filepath="$PROJECT_DIR$/OperatorError/OperatorError.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 4/Practice 4.iml" filepath="$PROJECT_DIR$/Practice 4/Practice 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 5/Practice 5.iml" filepath="$PROJECT_DIR$/Practice 5/Practice 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Practice1/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice2/Practice2.iml" filepath="$PROJECT_DIR$/Practice2/Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice3/Practice3.iml" filepath="$PROJECT_DIR$/Practice3/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAllOperators/PracticeAllOperators.iml" filepath="$PROJECT_DIR$/PracticeAllOperators/PracticeAllOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticePrimiitiveDataTypes/PracticePrimiitiveDataTypes.iml" filepath="$PROJECT_DIR$/PracticePrimiitiveDataTypes/PracticePrimiitiveDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem&amp;SolutionsInReadingUserInput/Problem&amp;SolutionsInReadingUserInput.iml" filepath="$PROJECT_DIR$/Problem&amp;SolutionsInReadingUserInput/Problem&amp;SolutionsInReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallengeWithWhile/ReadingUserInputChallengeWithWhile.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallengeWithWhile/ReadingUserInputChallengeWithWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse array challenge/Reverse array challenge.iml" filepath="$PROJECT_DIR$/Reverse array challenge/Reverse array challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeconsMinutesChallenge2/SeconsMinutesChallenge2.iml" filepath="$PROJECT_DIR$/SeconsMinutesChallenge2/SeconsMinutesChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhitespaceAndIdenting/StatementsWhitespaceAndIdenting.iml" filepath="$PROJECT_DIR$/StatementsWhitespaceAndIdenting/StatementsWhitespaceAndIdenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum3And5Challenge/Sum3And5Challenge.iml" filepath="$PROJECT_DIR$/Sum3And5Challenge/Sum3And5Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumDigitChallenge/SumDigitChallenge.iml" filepath="$PROJECT_DIR$/SumDigitChallenge/SumDigitChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchChallenge/SwitchChallenge.iml" filepath="$PROJECT_DIR$/SwitchChallenge/SwitchChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileAnddoWhile/WhileAnddoWhile.iml" filepath="$PROJECT_DIR$/WhileAnddoWhile/WhileAnddoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileAnddoWhileChallenge/WhileAnddoWhileChallenge.iml" filepath="$PROJECT_DIR$/WhileAnddoWhileChallenge/WhileAnddoWhileChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileAnddoWhileChallenge2/WhileAnddoWhileChallenge2.iml" filepath="$PROJECT_DIR$/WhileAnddoWhileChallenge2/WhileAnddoWhileChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileAnddoWhileChallenge3/WhileAnddoWhileChallenge3.iml" filepath="$PROJECT_DIR$/WhileAnddoWhileChallenge3/WhileAnddoWhileChallenge3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forStatement/forStatement.iml" filepath="$PROJECT_DIR$/forStatement/forStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forStatement1/forStatement1.iml" filepath="$PROJECT_DIR$/forStatement1/forStatement1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-then/if-then.iml" filepath="$PROJECT_DIR$/if-then/if-then.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-then1/if-then1.iml" filepath="$PROJECT_DIR$/if-then1/if-then1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-then2/if-then2.iml" filepath="$PROJECT_DIR$/if-then2/if-then2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceChallenge/inheritanceChallenge.iml" filepath="$PROJECT_DIR$/inheritanceChallenge/inheritanceChallenge.iml" />
+    </modules>
+  </component>
+</project>
